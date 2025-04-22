@@ -1,11 +1,32 @@
-👋 Hi, I'm dev-caroline, a beginner web developer passionate
-about creating clean and responsive frontends with HTML and CSS.
-I'm currently learning JavaScript to expand my development skills.
-I believe in continuous growth and discipline, and I'm focused on 
-improving both my coding and personal development. Follow my journey as
-I build projects, learn, and share what I discover along the way. Let's collaborate!
+# 👋 Hi, I'm Dev-Caroline
 
-<!---
-dev-caroline/dev-caroline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate and growing **full-stack web developer** focused on building clean, responsive, and user-friendly web applications.
+
+### 🚀 What I Do
+- 🧩 Frontend: HTML, CSS, JavaScript, React
+- ⚙️ Backend: Node.js, Express
+- 🗃️ Database: MongoDB
+- 🎨 UI/UX: Canva, Figma (beginner)
+- 🌐 Tools: Git, GitHub, VS Code, Postman
+
+### 🌱 Currently Working On
+- A full-stack **e-learning platform** with AI and CBT features
+- Improving my design and content creation skills
+- Building daily habits around personal growth and discipline
+
+### 🧠 Goals
+- Master the MERN stack 🔥
+- Launch real-world projects that solve meaningful problems
+- Collaborate with other developers and creators
+
+### 📫 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+
+---
+
+_“I believe in consistent growth — both as a developer and as a person. Let’s build, learn, and evolve together.”_
+
+
+
