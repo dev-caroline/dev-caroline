@@ -1,4 +1,4 @@
-<h1 align="center">✨ Caroline | Full-Stack Web Developer</h1>
+<h1 align="center">✨ dev-caroline | Full-Stack Web Developer</h1>
 <p align="center">Building clean, useful, and beautiful things for the web.</p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 🔧 Skilled in: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`  
 - 🌱 Learning: UI/UX Design, AI Tools, Web3  
 - 🗣️ Always open to conversations about projects, habits, or collaborations!  
-- 📬 Reach me at: **youremail@example.com**
+- 📬 Reach me at: **ajiboyecaroline95@gmail.com**
 
 ---
 
