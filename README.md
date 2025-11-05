@@ -1,5 +1,5 @@
-<h1 align="center">✨ dev-caroline | Full-Stack Web Developer | </h1>
-<p align="center">Building clean, useful, and beautiful things for the web.</p>
+<h1 align="center">✨ Dev-caroline | Full-Stack Web Developer  </h1>
+<p align="center">Builds Clean and Responsive Websites.</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
@@ -13,7 +13,7 @@
 ## 🌟 About Me
 
 - 🧑‍💻 Transitioned from frontend web development to full-stack web development  
-- 🔧 Skilled in: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`  
+- 🔧 Skilled in: `React JS`, `Next JS`, `Tailwind`, `Node.js` and `Project Mangement`.  
 - 🌱 Learning: UI/UX Design, AI Tools, Web3  
 - 🗣️ Always open to conversations about projects, systems, and collaborations!  
 - 📬 Reach me at: **ajiboyecaroline95@gmail.com** | LinkedIn : www.linkedin.com/in/caroline-ajiboye-68026a326
