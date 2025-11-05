@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-- 🧑‍💻 Transitioned from frontend web development to full-stack web development  
+- 🧑‍💻 Transitioned from Frontend web development to Full-stack web development  
 - 🔧 Skilled in: `React JS`, `Next JS`, `Tailwind`, `Node.js` and `Project Mangement`.  
 - 🌱 Learning: UI/UX Design, AI Tools, Web3  
 - 🗣️ Always open to conversations about projects, systems, and collaborations!  
@@ -26,7 +26,7 @@
   
 - ✅ **Todo App** — Stay productive and organized with simplicity  
 - 💰 **Budget Tracker** — Track expenses and income visually  
-- 📘 **Note Keep** — A better clone of Google Keep Note  
+- 📘 **Note Box** — Keeps note in a structured way  
 
 ---
 
