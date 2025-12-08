@@ -1,51 +1,47 @@
-<h1 align="center">✨ Dev-caroline | Full-Stack Web Developer  </h1>
-<p align="center">Builds Clean and Responsive Websites.</p>
+<h1 align="center">Caroline Ajiboye</h1>
+<h3 align="center">Software Engineer • Full-Stack Web Developer</h3>
+<p align="center">I build modern, scalable, and user-focused web applications.</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=firefox-browser" /></a>
+  <a href="https://linkedin.com/in/caroline-ajiboye-68026a326">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ajiboyecaroline95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🧑‍💻 Transitioned from Frontend web development to Full-stack web development  
-- 🔧 Skilled in: `React JS`, `Next JS`, `Tailwind`, `Node.js` and `Project Mangement`.  
-- 🌱 Learning: UI/UX Design, AI Tools, Web3  
-- 🗣️ Always open to conversations about projects, systems, and collaborations!  
-- 📬 Reach me at: **ajiboyecaroline95@gmail.com** | LinkedIn : www.linkedin.com/in/caroline-ajiboye-68026a326
+- Full-stack developer experienced in building clean interfaces and scalable backend systems  
+- Skilled in: `React`, `Next.js`, `Tailwind`, `Node.js`, `MongoDB`, `Git`, and modern development workflows  
+- Exploring: UI/UX systems, AI-assisted development, and emerging web technologies  
+- Passionate about clarity, structure, and creating products that feel intentional  
+- Contact: **ajiboyecaroline95@gmail.com**
 
 ---
 
-## 💼 Projects
+## 💼 Selected Projects
 
-> A few things I’ve built or contributed to:
-  
-- ✅ **Todo App** — Stay productive and organized with simplicity  
-- 💰 **Budget Tracker** — Track expenses and income visually  
-- 📘 **Note Box** — Keeps note in a structured way  
+- **Medic Diet Clinic** — A modern nutrition and dietetics consultation website focused on clarity, trust, and clean user experience.  
+- **Note Box** — A structured note-taking tool designed for easy organization and quick recall.  
+- **Portfolio Website** — A personal portfolio showcasing skills, projects, and professional growth using Next.js & Tailwind.  
+- **Recovery Hub** — A simple, accessible resource platform for lost and found items with a clear content layout.  
+- **Strivex** — A digital log book system for students during SIWES.  
+- **…and more projects exploring dashboards, UI/UX, and full-stack workflows.**
 
 ---
 
-## 🧰 Tech Skills
+## 🧰 Tech Stack
 
 <div align="center">
-HTML5 | 
-CSS3 | 
-JavaScript | 
-ReactJS | 
-NodeJS | 
-MongoDB | 
-NextJS | 
-GraphQL | 
-Github | 
-Canva | 
-Excel | 
-Basic UI/UX  
 
+**JavaScript • React • Next.js • Node.js • MongoDB • Express • Tailwind CSS • GitHub • GraphQL • UI/UX • Canva • Excel**
 
 </div>
 
@@ -53,12 +49,8 @@ Basic UI/UX
 
 ## 🤝 Let’s Connect
 
-I'm passionate about tech, creativity, and making a real impact. Whether it's a chat, collab, or feedback—feel free to reach out!
+I’m focused on building clean digital experiences and improving continuously.  
+If you’re working on something impactful, I’d love to connect or collaborate.
 
-> _“Learning out loud and building in public—one line of code at a time.”_ 
-
-
-
-
-
+> _“Learning consistently. Building intentionally.”_
 
