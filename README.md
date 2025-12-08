@@ -1,4 +1,4 @@
-<h1 align="center">Caroline Ajiboye</h1>
+<h1 align="center">Ajiboye Caroline Adetomiwa</h1>
 <h3 align="center">Software Engineer • Full-Stack Web Developer</h3>
 <p align="center">I build modern, scalable, and user-focused web applications.</p>
 
